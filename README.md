@@ -1,1 +1,2 @@
-# BMI-703
+# BMI 703 
+## Precision Medicine I: Genomic Medicine
